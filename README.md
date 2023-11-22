@@ -41,10 +41,11 @@ Importez le compte dans MetaMask sur le réseau configuré.
 4. Confirmez la transaction dans MetaMask.
 
 ## Structure du Projet
-contracts/ : Contient le contrat intelligent Election.sol.
-migrations/ : Fichiers de migration pour déployer le contrat.
-test/ : Fichiers de test pour le contrat.
-src/ : Contient le code source de l'interface utilisateur.
+- **contracts/** : Contient le contrat intelligent Election.sol.
+- **migrations/** : Fichiers de migration pour déployer le contrat.
+- **test/** : Fichiers de test pour le contrat.
+- **src/** : Contient le code source de l'interface utilisateur.
+
 
 ## Conclusion
 Ce projet a fourni une expérience pratique dans le développement d'une application de vote décentralisée. N'hésitez pas à explorer le code source et à contribuer à son amélioration !
