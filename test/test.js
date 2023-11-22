@@ -1,10 +1,9 @@
-// we require the contract Election .sol and assign it to a
-variable
-var Election = artifacts . require ("./ Election . sol") ;
+// we require the contract Election .sol and assign it to a variable
+var Election = artifacts . require ("./Election.sol") ;
 // we call the " contract " function , and write all our
 // tests within the callback function that provides an " accounts " variable
 // that represents all the accounts on our blockchain, provided by Ganache .
-contract (" Election ", function ( accounts ) {
+contract ("Election", function ( accounts ) {
 var electionInstance ;
 // checking the candidates count is equal to 2
 it (" initializes with two candidates ", function () {
