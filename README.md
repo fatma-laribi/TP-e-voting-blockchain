@@ -49,9 +49,9 @@ Importez le compte dans MetaMask sur le réseau configuré.
 4. Confirmez la transaction dans MetaMask.
 
 ## Structure du Projet
-- **contracts/** : Contient le contrat intelligent Election.sol.
-- **migrations/** : Fichiers de migration pour déployer le contrat.
-- **test/** : Fichiers de test pour le contrat.
+- **contracts/** : Contient les contrats intelligents Election.sol et Migration.sol.
+- **migrations/** : Fichiers de migration pour déployer les contrat.
+- **test/** : Fichiers de test pour les contrats.
 - **src/** : Contient le code source de l'interface utilisateur.
 
 
