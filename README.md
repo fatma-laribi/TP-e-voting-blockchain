@@ -1,6 +1,6 @@
 # Projet e-Voting avec Blockchain
 
-Ce projet constitue une implémentation d'une application de vote en ligne utilisant la technologie Blockchain Ethereum. Le développement de cette application a été réalisé dans le cadre d'un Travaux Pratiques sous la supervision de M. Yousfi Souheib en mai 2020.
+Ce projet constitue une implémentation d'une application de vote en ligne utilisant la technologie Blockchain Ethereum. Le développement de cette application a été réalisé dans le cadre d'un Travaux Pratiques sous la supervision de M. Yousfi Souheib en Novembre 2023.
 
 ## Objectif
 
@@ -16,7 +16,7 @@ L'objectif de ce projet était de créer un système de vote transparent, sécur
 
 2. **Clonage du Répertoire**
 ```bash
-   git clone https://github.com/VotreNom/e-voting-blockchain.git
+   git clone https://github.com/fatma-laribi/TP-e-voting-blockchain.git
 ```
 
 
