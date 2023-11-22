@@ -15,20 +15,28 @@ L'objectif de ce projet était de créer un système de vote transparent, sécur
    - MetaMask Ethereum Wallet : [https://metamask.io/](https://metamask.io/)
 
 2. **Clonage du Répertoire**
+```bash
    git clone https://github.com/VotreNom/e-voting-blockchain.git
+```
+
 
 3. **Installation des Dépendances**
+```bash
+
     cd e-voting-blockchain
     npm install
-
+```
 4. **Configuration de Ganache**
 Lancez Ganache et configurez-le pour utiliser le même port que spécifié dans le projet.
 
 5. **Déploiement du Contrat Intelligent**
+```bash
     truffle migrate
-
+```
 6. **Lancement de l'Application**
+```bash
     npm run dev
+```
 
 7. **Importation du Compte dans MetaMask**
 Copiez la clé privée d'un compte Ganache.
